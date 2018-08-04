@@ -55,3 +55,4 @@ dim(TrainSet)
 dim(TestSet)
 
 # With the cleaning process above, the number of variables for analysis has been reduced to 54 only
+                   #Done Changes
