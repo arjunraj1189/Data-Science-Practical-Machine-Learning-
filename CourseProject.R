@@ -10,3 +10,9 @@ library(rattle)
 library(randomForest)
 library(corrplot)
 set.seed(12345)
+
+
+# Data Loading and Cleaning
+
+UrlTrain <- "http://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv"
+UrlTest  <- "http://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv"
